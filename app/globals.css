@@ -20,9 +20,9 @@ body{
     position: absolute;
 }
 
-/* .cricle-letters img{
+.cricle-letters img{
     width: 500px;
-} */
+}
 
 @keyframes cl-spin {
     from {

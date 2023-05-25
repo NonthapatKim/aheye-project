@@ -11,7 +11,7 @@ function Hero() {
       </div>
 
       <div className="cricle-letters">
-        <Image src={imgC} className="w-128" alt="..." />
+        <Image src={imgC} alt="..." />
       </div>
     </div>
   );
