@@ -10,9 +10,9 @@ function Hero() {
         <Image src={imgP} alt="hero-img" />
       </div>
 
-      <div className="cricle-letters">
+      {/* <div className="cricle-letters">
         <Image src={imgC} alt="..." />
-      </div>
+      </div> */}
     </div>
   );
 }
