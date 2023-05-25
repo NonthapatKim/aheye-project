@@ -11,7 +11,7 @@ function Hero() {
       </div>
 
       <div className="cricle-letters">
-        <Image src={imgC} className="w-20 md:w-96 lg:w-128" priority={true} alt="..." />
+        <Image src={imgC} className="w-128" alt="..." />
       </div>
     </div>
   );
