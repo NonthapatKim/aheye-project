@@ -6,6 +6,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Korranid Laosubinprasoet',
   description: 'Aheye | Korranid Laosubinprasoet',
+  icons: {
+    icon: './assets/images/icon.png',
+  },
 }
 
 export default function RootLayout({

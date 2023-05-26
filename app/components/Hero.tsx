@@ -10,8 +10,16 @@ const glorifyReg = localfont({ src: '../assets/fonts/glorify_regular-webfont.wof
 function Hero() {
   return (
     <>
-        <div className="container mx-auto">
-          <div className="grid grid-cols-12 gap-7 mt-14 md:mt-0 lg:mt-0">
+        <header className="mx-auto">
+          <div className="cricle-letters hidden lg:block w-32 mt-64 ms-96 absolute">
+            <Image src={imgC} alt="..." />
+          </div>
+
+          <div className="cricle-letters max-w-screen-lg hidden lg:block w-24 mt-S0 ms-S3 absolute">
+            <Image src={imgC} alt="..." />
+          </div>
+
+          <div className="grid grid-cols-12 gap-7 mt-10 md:mt-0 lg:mt-5">
             <div className={`${glorifyReg.className} col-span-12 text-center text-5xl md:text-6xl lg:text-6xl text-color1`}>
                 Korranid <br></br> Laosubinprasoet
             </div>
@@ -20,17 +28,7 @@ function Hero() {
                 <Image src={imgP} className="mx-auto" priority={true} alt="hero-img" />
             </div>
           </div>
-        </div>
-
-        {/* <div className="grid place-items-center h-screen">
-            <div className="img-hero w-64 md:w-80">
-                <Image src={imgP} alt="profile-img" />
-            </div>
-
-            <div className="cricle-letters absolute w-96">
-                <Image src={imgC} priority={true} alt="..." />
-            </div>
-        </div> */}
+        </header>
     </>
   );
 }
