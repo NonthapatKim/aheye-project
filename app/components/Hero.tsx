@@ -10,34 +10,18 @@ const glorifyReg = localfont({ src: '../assets/fonts/glorify_regular-webfont.wof
 function Hero() {
   return (
     <>
-        <header>
-          <div id="background-wrap">
-            <div className="x1">
-              <div className="cloud"></div>
-            </div>
+        <section>
+          <div className="cloud hidden xl:block -mt-36 ms-96"></div>
+          <div className="cloud hidden xl:block -mt-10 -ms-64"></div>
+          <div className="cloud hidden xl:block -mt-52 -ms-S2"></div>
+          <div className="cloud hidden xl:block mt-52 -ms-S1"></div>
+          <div className="cloud hidden xl:block mt-36 ms-72"></div>
 
-            <div className="x2">
-              <div className="cloud"></div>
-            </div>
-
-            <div className="x3">
-              <div className="cloud"></div>
-            </div>
-
-            <div className="x4">
-              <div className="cloud"></div>
-            </div>
-
-            <div className="x5">
-              <div className="cloud"></div>
-            </div>
-          </div>
-
-          <div className="cricle-letters hidden lg:block w-32 mt-64 ms-96 absolute">
+          <div className="cricle-letters hidden xl:block xl:w-32 xl:mt-64 xl:ms-96 absolute">
             <Image src={imgC} alt="..." />
           </div>
 
-          <div className="cricle-letters max-w-screen-lg hidden lg:block w-24 mt-S0 ms-S3 absolute">
+          <div className="cricle-letters max-w-screen-lg hidden xl:block xl:w-24 xl:mt-S0 xl:ms-S3 absolute">
             <Image src={imgC} alt="..." />
           </div>
 
@@ -50,7 +34,7 @@ function Hero() {
                 <Image src={imgP} className="mx-auto" priority={true} alt="hero-img" />
             </div>
           </div>
-        </header>
+        </section>
     </>
   );
 }

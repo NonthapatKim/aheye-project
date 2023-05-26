@@ -7,6 +7,7 @@ import {
 
 //Page 
 import Hero from "./components/Hero";
+import Aheyechildren from "./components/Aheye-children";
 
 import Img1 from "./assets/images/loader/1.jpg"
 import Img2 from "./assets/images/loader/2.jpg"
@@ -18,6 +19,7 @@ import Img7 from "./assets/images/loader/7.jpg"
 import Img8 from "./assets/images/loader/8.jpg"
 import Img9 from "./assets/images/loader/9.jpg"
 import Img10 from "./assets/images/loader/10.jpg"
+
 
 const imagePaths = [Img1, Img2, Img3, Img4, Img5, Img6, Img7, Img8, Img9, Img10]
 
@@ -143,7 +145,10 @@ export default function Home() {
       </AnimatePresence>
 
       {!isAnimatingStart && (
-        <Hero/>
+        <> 
+          <Hero/>
+          <Aheyechildren />
+        </>
       )}
     </>
   );
