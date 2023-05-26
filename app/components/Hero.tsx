@@ -11,7 +11,7 @@ function Hero() {
   return (
     <div className="container mx-auto">
       <div className="grid grid-cols-12 gap-7 mt-14 md:mt-0 lg:mt-0">
-        <div className={`${glorifyReg.className} col-span-12 text-center text-4xl md:text-6xl lg:text-6xl text-color1`}>
+        <div className={`${glorifyReg.className} col-span-12 text-center text-5xl md:text-6xl lg:text-6xl text-color1`}>
             Korranid <br></br> Laosubinprasoet
         </div>
 
