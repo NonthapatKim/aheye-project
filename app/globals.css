@@ -16,22 +16,37 @@ section {
     height: 100%;
 } */
 
-.cricle-letters {
-    animation: cl-spin infinite 20s linear;
+.cricle-letters-l {
+    animation: cl-spin-l infinite 20s linear;
     position: absolute;
 }
 
-.cricle-letters img {
+.cricle-letters-r {
+    animation: cl-spin-r infinite 20s linear;
+    position: absolute;
+}
+
+.cricle-letters-l .cricle-letters-r img {
     width: 500px;
 }
 
-@keyframes cl-spin {
+@keyframes cl-spin-l {
     from {
         transform: rotate(0deg);
     }
 
     to {
         transform: rotate(360deg);
+    }
+}
+
+@keyframes cl-spin-r {
+    from {
+        transform: rotate(360deg);
+    }
+
+    to {
+        transform: rotate(0deg);
     }
 }
 
@@ -43,8 +58,8 @@ section {
     top: 50%;
     left: 50%;
     background: #FFFFFF;
-    height: 60px;
-    width: 60px;
+    height: 70px;
+    width: 70px;
     box-shadow:
         #FFFFFF 65px -15px 0 -5px,
         #FFFFFF 25px -25px,
