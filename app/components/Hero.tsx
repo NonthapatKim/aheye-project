@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import imgP from "../assets/images/img-p.png";
-import imgC from "../assets/images/cricle-letters-1.png";
+import imgC from "../assets/images/cricle-letters.png";
 
 import localfont from 'next/font/local'
 const glorifyLight = localfont({ src: '../assets/fonts/glorify_light-webfont.woff2' })
@@ -10,8 +10,30 @@ const glorifyReg = localfont({ src: '../assets/fonts/glorify_regular-webfont.wof
 function Hero() {
   return (
     <>
-        <header className="mx-auto">
-          {/* <div className="cricle-letters hidden lg:block w-32 mt-64 ms-96 absolute">
+        <header>
+          <div id="background-wrap">
+            <div className="x1">
+              <div className="cloud"></div>
+            </div>
+
+            <div className="x2">
+              <div className="cloud"></div>
+            </div>
+
+            <div className="x3">
+              <div className="cloud"></div>
+            </div>
+
+            <div className="x4">
+              <div className="cloud"></div>
+            </div>
+
+            <div className="x5">
+              <div className="cloud"></div>
+            </div>
+          </div>
+
+          <div className="cricle-letters hidden lg:block w-32 mt-64 ms-96 absolute">
             <Image src={imgC} alt="..." />
           </div>
 
@@ -24,20 +46,10 @@ function Hero() {
                 Korranid <br></br> Laosubinprasoet
             </div>
 
-            <div className="col-span-12 max-w-screen-lg mx-auto img-hero w-72 md:w-80 lg:w-96">
+            <div className="col-span-12 max-w-screen-lg mx-auto img-hero w-64 md:w-80 lg:w-96">
                 <Image src={imgP} className="mx-auto" priority={true} alt="hero-img" />
             </div>
-          </div> */}
-
-          <div className="grid place-items-center h-screen">
-            <div className="img-hero w-64 md:w-80 lg:w-1/4">
-              <Image src={imgP} alt="hero-img" />
-            </div>
-
-            <div className="cricle-letters">
-              <Image src={imgC} className="w-128" priority={true} alt="..." />
-            </div>
-          </div>
+          </div>
         </header>
     </>
   );
