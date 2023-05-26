@@ -15,7 +15,7 @@ function Hero() {
             Korranid <br></br> Laosubinprasoet
         </div>
 
-        <div className="col-span-12 max-w-screen-lg mx-auto img-hero w-64 md:w-80 lg:w-96">
+        <div className="col-span-12 max-w-screen-lg mx-auto img-hero w-72 md:w-80 lg:w-96">
             <Image src={imgP} className="mx-auto" priority={true} alt="hero-img" />
         </div>
       </div>
