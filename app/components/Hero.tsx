@@ -41,7 +41,7 @@ function Hero() {
             <div className="cloud mt-52 -ms-S1"></div>
             <div className="cloud mt-36 ms-72"></div>
 
-            <div className="cricle-letters-l hidden lg:block xl:hidden lg:w-32 lg:mt-64 lg:ms-64 absolute">
+            <div className="cricle-letters-l hidden lg:block xl:hidden lg:w-32 lg:mt-64 lg:ms-60 absolute">
               <Image src={imgC} alt="..." />
             </div>
 

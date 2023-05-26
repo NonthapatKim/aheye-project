@@ -4,11 +4,11 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Korranid Laosubinprasoet',
-  description: 'Aheye | Korranid Laosubinprasoet',
   icons: {
     icon: './assets/images/icon.png',
   },
+  title: 'Korranid Laosubinprasoet',
+  description: 'Aheye | Korranid Laosubinprasoet',
 }
 
 export default function RootLayout({
