@@ -16,7 +16,8 @@ module.exports = {
         'S0': '28rem',
         'S1': '32rem',
         'S2': '36rem',
-        'S3': '60rem'
+        'S3': '60rem',
+        'S4': '33rem'
       },
 
       colors: {
