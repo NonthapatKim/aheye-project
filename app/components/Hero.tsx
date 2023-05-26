@@ -21,12 +21,12 @@ function Hero() {
     //   </div>
     // </div>
     <div className="grid place-items-center h-screen">
-      <div className="img-hero w-64 md:w-80 lg:w-1/4">
+      <div className="img-hero w-64 md:w-80">
         <Image src={imgP} alt="profile-img" />
       </div>
 
       <div className="cricle-letters">
-        <Image src={imgC} priority={true} alt="..." />
+        <Image src={imgC} className="w-128" priority={true} alt="..." />
       </div>
     </div>
   );
