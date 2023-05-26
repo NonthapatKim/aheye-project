@@ -11,7 +11,7 @@ function Hero() {
   return (
     <>
         <header className="mx-auto">
-          <div className="cricle-letters hidden lg:block w-32 mt-64 ms-96 absolute">
+          {/* <div className="cricle-letters hidden lg:block w-32 mt-64 ms-96 absolute">
             <Image src={imgC} alt="..." />
           </div>
 
@@ -27,7 +27,17 @@ function Hero() {
             <div className="col-span-12 max-w-screen-lg mx-auto img-hero w-72 md:w-80 lg:w-96">
                 <Image src={imgP} className="mx-auto" priority={true} alt="hero-img" />
             </div>
-          </div>
+          </div> */}
+
+          <div className="grid place-items-center h-screen">
+            <div className="img-hero w-64 md:w-80 lg:w-1/4">
+              <Image src={imgP} alt="hero-img" />
+            </div>
+
+            <div className="cricle-letters">
+              <Image src={imgC} className="w-128" priority={true} alt="..." />
+            </div>
+          </div>
         </header>
     </>
   );
