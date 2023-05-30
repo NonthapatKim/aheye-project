@@ -15,6 +15,8 @@ const boxVariant = {
     hidden: { opacity: 0 }
 };  
 
+/* eslint-disable react/no-unescaped-entities */
+
 function AheyeB2() {
     const control = useAnimation();
     const [ref, inView] = useInView();

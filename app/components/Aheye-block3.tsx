@@ -14,7 +14,9 @@ const noto_S_TH = Noto_Serif_Thai({ subsets: ['thai'] })
 const boxVariant = {
     visible: { opacity: 1, transition: { duration: 2 } },
     hidden: { opacity: 0 }
-};  
+};
+
+/* eslint-disable react/no-unescaped-entities */
 
 function AheyeB3() {
     const control = useAnimation();

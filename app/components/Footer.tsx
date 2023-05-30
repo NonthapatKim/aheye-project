@@ -8,6 +8,8 @@ const glorifyReg = localfont({ src: '../assets/fonts/glorify_regular-webfont.wof
 
 const noto_S_TH = Noto_Serif_Thai({ subsets: ['thai'] })
 
+/* eslint-disable react/no-unescaped-entities */
+
 function Footer() {
   return (
     <footer className="container-fluid mx-auto pt-4 ps-4 pe-4 pb-5 aheye-block-footer text-black/50">
