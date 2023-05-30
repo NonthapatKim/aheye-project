@@ -8,6 +8,10 @@ import {
 //Page 
 import Hero from "./components/Hero";
 import Aheyechildren from "./components/Aheye-children";
+import TagLine from "./components/Tagline";
+import AheyeB2 from "./components/Aheye-block2";
+import Footer from "./components/Footer";
+import AheyeB3 from "./components/Aheye-block3";
 
 import Img1 from "./assets/images/loader/1.jpg"
 import Img2 from "./assets/images/loader/2.jpg"
@@ -147,7 +151,11 @@ export default function Home() {
       {!isAnimatingStart && (
         <> 
           <Hero/>
+          <TagLine />
           <Aheyechildren />
+          <AheyeB2 />
+          <AheyeB3 />
+          <Footer />
         </>
       )}
     </>

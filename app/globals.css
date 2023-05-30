@@ -8,13 +8,13 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #F6F1F1;
+}
+
 section {
     background-color: #f5e3d7;
 }
-
-/* .img-hero img{
-    height: 100%;
-} */
 
 .cricle-letters-l {
     animation: cl-spin-l infinite 20s linear;
@@ -72,4 +72,12 @@ section {
     50% {
         transform: translateY(-15px);
     }
+}
+
+.aheye-block1 {
+    background-color: #f5e3d7;
+}
+
+.aheye-block-footer {
+    background-color: #EEEEEE;
 }

@@ -23,7 +23,8 @@ module.exports = {
       },
 
       colors: {
-        'color1': '#7380a8'
+        'color1': '#7380a8',
+        'color2': '#5C469C'
       }
     },
   },

@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import imgP from "../assets/images/img-p.png";
+//import imgP from "../assets/images/img-p.png";
+import imgP1 from "../assets/images/img-p-1.png";
 import imgC from "../assets/images/cricle-letters.png";
 
 import localfont from 'next/font/local'
@@ -10,7 +11,7 @@ const glorifyReg = localfont({ src: '../assets/fonts/glorify_regular-webfont.wof
 function Hero() {
   return (
     <>
-        <section className="h-S5">
+        <section className="pb-5 md:pb-0 lg:pb-0 xl:pb-0">
           {/* sm */}
           <div className="block md:hidden lg:hidden xl:hidden 2xl:hidden">
             <div className="cloud -mt-24 -ms-56"></div>
@@ -72,8 +73,8 @@ function Hero() {
               Korranid <br></br> Laosubinprasoet
             </div>
 
-            <div className="col-span-12 max-w-screen-lg mx-auto img-hero w-80 lg:w-96">
-              <Image src={imgP} className="mx-auto" priority={true} alt="hero-img" />
+            <div className="col-span-12 max-w-screen-lg mx-auto img-hero w-[22rem] lg:w-96 xl:w-[25rem]">
+              <Image src={imgP1} className="mx-auto" priority={true} alt="hero-img" />
             </div>
           </div>
         </section>
