@@ -12,7 +12,7 @@ function Footer() {
   return (
     <footer className="container-fluid mx-auto pt-4 ps-4 pe-4 pb-5 aheye-block-footer text-black/50">
       <div className="grid grid-cols-0 gap-8">
-        <div><Image src={rabbit} className='mx-auto w-20' alt='rabbit' /></div>
+        <div><Image src={rabbit} className="mx-auto w-20" alt="rabbit" /></div>
         <div className={`${noto_S_TH.className} text-center`}>
             เว็บไซต์นี้เป็นส่วนหนึ่งของโปรเจควันเกิดของ <br/> อ๊ะอาย กรณิศ เล้าสุบินประเสริฐ <br/> ศิลปินวง 4EVE, นักร้อง, นักแสดง และนักพากย์
         </div>
