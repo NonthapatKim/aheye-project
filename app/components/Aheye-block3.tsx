@@ -45,29 +45,29 @@ function AheyeB3() {
             </div>
 
             <div className={`${noto_S_TH.className} container mx-auto p-4 mt-0 md:mt-0 lg:mt-0 xl:mt-0`}>
-                <div className="grid grid-cols-0 md:grid-cols-0 lg:grid-cols-0 xl:grid-cols-2 gap-8">
-                    <div><Image src={Imgb3} className='w-full md:w-[30rem] lg:w-[40rem] mx-auto' alt='...' /></div>
-                    <div className='mt-10 md:mt-0 xl:mt-10 text-center md:text-center lg:text-center xl:text-start ps-4 md:ps-8 lg:ps-10 xl:ps-0 pe-4 md:pe-8 lg:pe-10 xl:pe-0'>
-                        <p className="text-2xl"><span className="text-color1">อ๊ะอาย</span> ได้เริ่มต้นเส้นทาง <b>นักแสดงเด็ก</b> ในวัย 9 ขวบ จากจุดเริ่มต้นที่อ๊ะอาย ชอบร้องเพลงประกอบละคร จึงทำให้ครอบครัวได้เริ่มผลักดันให้อ๊ะอายได้ถ่ายละคร, เดินแบบ, เล่นซิทคอม และละครเวที โดยเรื่องแรกที่อ๊ะอายออดิชั่น และมีโอกาสได้เล่นคือ <b>สี่แผ่นดิน เดอะมิวสิคคัล</b> ซึ่งเป็นละครเวที อ๊ะอายได้ทุ่มเทอย่างมาก ฝึกซ้อมอย่างหนัก แต่ไม่รู้สึกเหนื่อยเลย เพราะได้ซึมซับการทำงานของพี่ ๆ ทำให้อ๊ะอายได้รู้ว่า <br/> </p>
-                        <p className="italic text-4xl pt-5 pb-5">"ถ้ามาสายนี้จริง ๆ ก็ต้องมีความรับผิดชอบสูงมาก"</p>
-                        <p className="text-2xl">บทบาทของอ๊ะอายในหน้าจอโทรทัศน์ ที่ทำให้หลาย ๆ คนคุ้นตามากที่สุดคือ ซิทคอมซีรีส์ <b>บางรักซอย 9/1</b> โดยอ๊ะอายรับบทบาทเป็น <b>แป้งหอม</b> </p>
+                <div className="grid grid-cols-0 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
+                    <div className="mt-0 md:mt-24 lg:mt-0 xl:mt-0"><Image src={Imgb3} className="w-full md:w-[36rem] lg:w-[40rem] mx-auto" alt="..." /></div>
+                    <div className='mt-10 md:mt-0 xl:mt-14 text-center md:text-start lg:text-start xl:text-start ps-4 md:ps-0 lg:ps-10 xl:ps-0 pe-4 md:pe-0 lg:pe-10 xl:pe-0'>
+                        <p className="text-2xl md:text-lg lg:text-lg xl:text-2xl"><span className="text-color1">อ๊ะอาย</span> ได้เริ่มต้นเส้นทาง <b>นักแสดงเด็ก</b> ในวัย 9 ขวบ จากจุดเริ่มต้นที่อ๊ะอาย ชอบร้องเพลงประกอบละคร จึงทำให้ครอบครัวได้เริ่มผลักดันให้อ๊ะอายได้ถ่ายละคร, เดินแบบ, เล่นซิทคอม และละครเวที โดยเรื่องแรกที่อ๊ะอายออดิชั่น และมีโอกาสได้เล่นคือ <b>สี่แผ่นดิน เดอะมิวสิคคัล</b> ซึ่งเป็นละครเวที อ๊ะอายได้ทุ่มเทอย่างมาก ฝึกซ้อมอย่างหนัก แต่ไม่รู้สึกเหนื่อยเลย เพราะได้ซึมซับการทำงานของพี่ ๆ ทำให้อ๊ะอายได้รู้ว่า <br/> </p>
+                        <p className="italic text-4xl md:text-3xl lg:text-4xl xl:text-4xl pt-5 pb-5">"ถ้ามาสายนี้จริง ๆ ก็ต้องมีความรับผิดชอบสูงมาก"</p>
+                        <p className="text-2xl md:text-xl lg:text-lg xl:text-2xl">บทบาทของอ๊ะอายในหน้าจอโทรทัศน์ ที่ทำให้หลาย ๆ คนคุ้นตามากที่สุดคือ ซิทคอมเรื่อง <b>บางรักซอย 9/1</b> โดยอ๊ะอายรับบทบาทเป็น <b>แป้งหอม</b> </p>
                     </div>
                 </div>
             </div>
 
-            <div className={`${noto_S_TH.className} container ps-4 md:ps-10 lg:ps-20 xl:ps-20 pe-4 md:pe-10 lg:pe-20 xl:pe-0 mt-10 md:mt-10 lg:mt-0 xl:mt-20 mb-20`}>
-                <div className="grid grid-cols-0 md:grid-cols-0 lg:grid-cols-0 xl:grid-cols-2 gap-8">
+            <div className={`${noto_S_TH.className} container ps-4 md:ps-10 lg:ps-10 xl:ps-32 pe-4 md:pe-0 lg:pe-0 xl:pe-0 mt-10 md:mt-10 lg:mt-0 xl:mt-5 mb-20`}>
+                <div className="grid grid-cols-0 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
                     <div>
-                        <p className="text-center md:text-center lg:text-center xl:text-start text-2xl leading-normal"><i>กาลครั้งหนึ่ง</i> <span className="text-color1">อ๊ะอาย</span> เคยพลาดการแคสโฆษณา เพราะไม่กล้าเล่น ทำให้อ๊ะอาย เสียดายโอกาสในครั้งนั้น จนกลับมาฮึดสู้ เริ่มต้นใหม่อีกครั้ง และทำให้ได้รู้ว่า <br/></p>
+                        <p className="text-center md:text-start lg:text-start xl:text-start text-2xl leading-normal"><i>กาลครั้งหนึ่ง</i> <span className="text-color1">อ๊ะอาย</span> เคยพลาดการแคสโฆษณา เพราะไม่กล้าเล่น ทำให้อ๊ะอายเสียดายโอกาสในครั้งนั้น จนกลับมาฮึดสู้ เริ่มต้นใหม่อีกครั้ง และได้เรียนรู้ว่า <br/></p>
 
-                        <p className="text-center md:text-center lg:text-center xl:text-start text-3xl italic pt-5 pb-5">"โอกาสคือสิ่งสำคัญ แต่ความกล้าคือสิ่งสำคัญกว่า"</p>
+                        <p className="text-center md:text-start lg:text-start xl:text-start text-3xl italic pt-5 pb-5">"โอกาสคือสิ่งสำคัญ แต่ความกล้าคือสิ่งสำคัญกว่า"</p>
 
-                        <p className="text-center md:text-center lg:text-center xl:text-start text-2xl">ทำให้อ๊ะอาย คว้าทุกโอกาสที่เข้ามาในชีวิต ทั้งเล่นละคร, ภาพยนตร์, ละครเวที รวมไปถึงการพากย์เสียงต่าง ๆ</p>
+                        <p className="text-center md:text-start lg:text-start xl:text-start text-2xl">ทำให้อ๊ะอาย คว้าทุกโอกาสที่เข้ามาในชีวิต ทั้งเล่นละคร, ภาพยนตร์, ละครเวที รวมไปถึงการพากย์เสียงต่าง ๆ</p>
                     </div>
 
-                    <div className="mt-5 md:mt-0 lg:mt-0 xl:mt-5">
+                    <div className="mt-5 md:mt-10 lg:mt-0 xl:mt-5">
                         <Image src={Imgp2} className="w-60 mx-auto md:mx-auto lg:mx-auto xl:mx-0 xl:ms-auto" alt="..." />
-                        <p className="text-color1 text-center md:text-center lg:text-center xl:text-end italic text-3xl md:text-3xl lg:text-3xl xl:text-4xl pt-5">ต่อให้ได้เลือกใหม่อีกครั้ง <br/> หนูก็ชอบที่ตัวเองมี "แผล" ค่ะ</p>
+                        <p className="text-color1 text-center md:text-center lg:text-center xl:text-end italic text-3xl md:text-2xl lg:text-3xl xl:text-4xl pt-5">ต่อให้ได้เลือกใหม่อีกครั้ง <br/> หนูก็ชอบที่ตัวเองมี "แผล" ค่ะ</p>
                     </div>
                 </div>
             </div>

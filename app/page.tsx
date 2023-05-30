@@ -12,6 +12,9 @@ import TagLine from "./components/Tagline";
 import AheyeB2 from "./components/Aheye-block2";
 import Footer from "./components/Footer";
 import AheyeB3 from "./components/Aheye-block3";
+import AheyeDyk1 from "./components/Aheye-dyk1";
+
+import AheyeQ from "./components/Aheye-quote";
 
 import Img1 from "./assets/images/loader/1.jpg"
 import Img2 from "./assets/images/loader/2.jpg"
@@ -155,6 +158,8 @@ export default function Home() {
           <Aheyechildren />
           <AheyeB2 />
           <AheyeB3 />
+          <AheyeDyk1 />
+          <AheyeQ />
           <Footer />
         </>
       )}
