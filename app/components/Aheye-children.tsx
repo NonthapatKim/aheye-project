@@ -14,7 +14,7 @@ function Aheyechildren() {
       <div className="container-fluid mx-auto p-4 md:p-0 lg:p-0 xl:p-0 mt-10 md:mt-20 lg:mt-20 xl:mt-20 mb-10 md:mb-0 lg:mb-10 xl:mb-10">
         <div className="grid grid-cols-0 md:grid-cols-0 lg:grid-cols-2 xl:grid-cols-2 gap-8">
           <div>
-            <Image src={Imgb1} className='w-full md:w-[38rem] lg:w-[44rem] mx-0 md:mx-auto' alt='Img-b-1' />
+            <Image src={Imgb1} className="w-full md:w-[38rem] lg:w-[44rem] mx-0 md:mx-auto" alt="Img-b-1" />
           </div>
 
           <div className={`${noto_S_TH.className} paragrah-1 mt-0 md:mt-10 lg:mt-14 xl:mt-20`}>
