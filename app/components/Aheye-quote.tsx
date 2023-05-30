@@ -39,10 +39,10 @@ function AheyeQ() {
     <>
       <div className={`${noto_S_TH.className} container-fluid mx-auto`}>
         <div className="grid grid-cols-0 md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-8">
-            <Image src={bgSm} className="block md:hidden lg:hidden xl:hidden" alt="Bg-Sm" />
-            <Image src={bgMd} className="hidden md:block lg:hidden xl:hidden" alt="Bg-Md" />
-            <Image src={bgLg} className="hidden md:hidden lg:block xl:hidden" alt="Bg-Lg" />
-            <Image src={bgXl} className="hidden md:hidden lg:hidden xl:block" alt="Bg-Xl" />
+            <Image src={bgSm} className="block md:hidden lg:hidden xl:hidden w-full" alt="Bg-Sm" />
+            <Image src={bgMd} className="hidden md:block lg:hidden xl:hidden w-full" alt="Bg-Md" />
+            <Image src={bgLg} className="hidden md:hidden lg:block xl:hidden w-full" alt="Bg-Lg" />
+            <Image src={bgXl} className="hidden md:hidden lg:hidden xl:block w-full" alt="Bg-Xl" />
 
             {/* sm */}
             <div className="absolute text-center block md:hidden lg:hidden xl:hidden p-8 mt-10">
