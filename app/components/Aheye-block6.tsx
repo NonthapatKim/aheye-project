@@ -74,7 +74,7 @@ function AheyeB6() {
             <div className={`${noto_S_TH.className} container mx-auto mt-0 md:mt-0 lg:mt-0 xl:mt-0`}>
                 <div className="grid grid-cols-0 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
                     <div className="p-4 md:p-4 lg:p-4 xl:p-0">
-                        <p className="mt-0 md:mt-0 lg:mt-0 xl:mt-5 text-2xl md:text-lg lg:text-2xl ml:text-2xl text-center md:text-start lg:text-start xl:text-start">จากวันนั้นถึงวันนี้ อ๊ะอาย เป็นเด็กหญิงคนหนึ่งที่มีความทุ่มเทเป็นอย่างมากตั้งแต่เด็ก ค้นขว่าย ให้โอกาสและเคารพความฝันกับตัวเองเสมอ ถึงแม้จะยากจะเหนื่อยแค่ไหนก็ตาม ก็ไม่มีวันย่อท้อต่อสิ่งใด ๆ เพราะแฟนคลับของอ๊ะอาย อย่างเหล่าไออุ่น เป็นเหมือนกำลังใจสำคัญของอ๊ะอายเป็นอย่างมาก แต่เหนือสิ่งอีกใด ครอบครัวและคนรอบข้างของอ๊ะอาย เป็นคนที่คอย Support ทุกความฝันของอ๊ะอายให้เป็นจริงอยู่เสมอ</p>
+                        <p className="mt-0 md:mt-0 lg:mt-0 xl:mt-5 text-2xl md:text-lg lg:text-2xl ml:text-2xl text-center md:text-start lg:text-start xl:text-start">จากวันนั้นถึงวันนี้ อ๊ะอาย เป็นเด็กหญิงคนหนึ่งที่มีความทุ่มเทเป็นอย่างมากตั้งแต่เด็ก ขวนขวาย ให้โอกาสและเคารพความฝันกับตัวเองเสมอ ถึงแม้จะยากจะเหนื่อยแค่ไหนก็ตาม ก็ไม่มีวันย่อท้อต่อสิ่งใด ๆ เพราะแฟนคลับของอ๊ะอาย อย่างเหล่าไออุ่น เป็นเหมือนกำลังใจสำคัญของอ๊ะอายเป็นอย่างมาก แต่เหนือสิ่งอีกใด ครอบครัวและคนรอบข้างของอ๊ะอาย เป็นคนที่คอย Support ทุกความฝันของอ๊ะอายให้เป็นจริงอยู่เสมอ</p>
                     </div>
 
                     <div className="p-4 md:p-4 lg:p-4 xl:p-0">
