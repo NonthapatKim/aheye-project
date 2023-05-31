@@ -67,7 +67,7 @@ function AheyeB5() {
                 </div>
             </div>
 
-            <div className={`${noto_S_TH.className} container-fluid mx-auto mt-20 md:mt-20 lg:mt-20 xl:mt-20`}>
+            <div className={`${noto_S_TH.className} container-fluid mx-auto mt-20 md:mt-20 lg:mt-10 xl:mt-20`}>
                 <Image src={ribbon} className="w-full" alt="..." />
                 <Image src={fEVE} className="w-[40rem] mt-4 mx-auto" alt="4EVE" />
 
