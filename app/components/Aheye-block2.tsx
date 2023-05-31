@@ -46,12 +46,12 @@ function AheyeB2() {
 
             <div className={`${noto_S_TH.className} container mx-auto mt-0 md:mt-0 lg:mt-0 xl:mt-20`}>
                 <div className="grid grid-cols-0 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
-                    <div className="-mt-4 md:mt-8 lg:mt-14 order-last md:order-none lg:order-none xl:order-none xl:mt-14 p-4 md:p-0 lg:p-4 xl:p-0">
+                    <div className="-mt-4 md:mt-8 lg:mt-14 xl:mt-24 order-last md:order-none lg:order-none xl:order-none p-4 md:p-0 lg:p-4 xl:p-0">
                         <h2 className="text-4xl md:text-4xl lg:text-3xl xl:text-5xl leading-[1.4] lg:leading-[1.5] xl:leading-[1.4] text-[#E84545] text-center md:text-start lg:text-start xl:text-start">จากร้องเพลงบนรถ <br/> สู่การผลักดันประกวดในรายการเพลงอย่างจริงจัง</h2>
 
-                        <p className="mt-4 text-xl text-center md:text-start lg:text-start xl:text-start"><span className="text-color1">อ๊ะอาย</span> ได้เข้าสู่การประกวดรายการเพลงต่าง ๆ โดยรายการแรกคือ <b>the trainer ปั้นฝันสนั่นเวที ปี 5</b> โดยตอนนั้นอ๊ะอายมีอายุแค่ 7 ขวบ หลังจากนั้นได้เข้าแข่งขันในรายการ <b>The Voice Kids Thailand ซีซั่น 2</b> ซึ่งทะลุไปถึงรอบ 5 คนสุดท้ายของทีมซานิ อีกรายการที่ทำให้หลายคนรู้จักอ๊ะอายคือ <b>We Kid Thailand เด็กร้องก้องโลก</b> ในชุดการแสดงเพลง "ความในใจ"</p>
+                        <p className="mt-4 text-2xl text-center md:text-start lg:text-start xl:text-start"><span className="text-color1">อ๊ะอาย</span> ได้เข้าสู่การประกวดรายการเพลงต่าง ๆ โดยรายการแรกคือ <b>the trainer ปั้นฝันสนั่นเวที ปี 5</b> โดยตอนนั้นอ๊ะอายมีอายุแค่ 7 ขวบ หลังจากนั้นได้เข้าแข่งขันในรายการ <b>The Voice Kids Thailand ซีซั่น 2</b> ซึ่งทะลุไปถึงรอบ 5 คนสุดท้ายของทีมซานิ อีกรายการที่ทำให้หลายคนรู้จักอ๊ะอายคือ <b>We Kid Thailand เด็กร้องก้องโลก</b> ในชุดการแสดงเพลง "ความในใจ"</p>
                     </div>
-                    <div><Image src={Imgb2} className="mx-auto w-[32rem]" alt="..." /></div>
+                    <div><Image src={Imgb2} className="mx-auto w-full" alt="..." /></div>
                 </div>
             </div>
         </>

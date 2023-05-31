@@ -13,6 +13,10 @@ import AheyeB2 from "./components/Aheye-block2";
 import Footer from "./components/Footer";
 import AheyeB3 from "./components/Aheye-block3";
 import AheyeDyk1 from "./components/Aheye-dyk1";
+import AheyeB4 from "./components/Aheye-block4";
+import AheyeB5 from "./components/Aheye-block5";
+import AheyeB6 from "./components/Aheye-block6";
+import AheyeSC from "./components/Aheye-social-media";
 
 import AheyeQ from "./components/Aheye-quote";
 
@@ -159,6 +163,10 @@ export default function Home() {
           <AheyeB2 />
           <AheyeB3 />
           <AheyeDyk1 />
+          <AheyeB4 />
+          <AheyeB5 />
+          <AheyeB6 />
+          <AheyeSC />
           <AheyeQ />
           <Footer />
         </>

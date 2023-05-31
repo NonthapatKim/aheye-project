@@ -55,14 +55,14 @@ function AheyeB3() {
                 </div>
             </div>
 
-            <div className={`${noto_S_TH.className} container ps-4 md:ps-10 lg:ps-10 xl:ps-32 pe-4 md:pe-0 lg:pe-0 xl:pe-0 mt-10 md:mt-10 lg:mt-0 xl:mt-5 mb-20`}>
+            <div className={`${noto_S_TH.className} container ps-4 md:ps-10 lg:ps-14 xl:ps-32 pe-4 md:pe-0 lg:pe-0 xl:pe-0 mt-10 md:mt-10 lg:mt-0 xl:mt-5 mb-20`}>
                 <div className="grid grid-cols-0 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
                     <div>
                         <p className="text-center md:text-start lg:text-start xl:text-start text-2xl leading-normal"><i>กาลครั้งหนึ่ง</i> <span className="text-color1">อ๊ะอาย</span> เคยพลาดการแคสโฆษณา เพราะไม่กล้าเล่น ทำให้อ๊ะอายเสียดายโอกาสในครั้งนั้น จนกลับมาฮึดสู้ เริ่มต้นใหม่อีกครั้ง และได้เรียนรู้ว่า <br/></p>
 
                         <p className="text-center md:text-start lg:text-start xl:text-start text-3xl italic pt-5 pb-5">"โอกาสคือสิ่งสำคัญ แต่ความกล้าคือสิ่งสำคัญกว่า"</p>
 
-                        <p className="text-center md:text-start lg:text-start xl:text-start text-2xl">ทำให้อ๊ะอาย คว้าทุกโอกาสที่เข้ามาในชีวิต ทั้งเล่นละคร, ภาพยนตร์, ละครเวที รวมไปถึงการพากย์เสียงต่าง ๆ</p>
+                        <p className="text-center md:text-start lg:text-start xl:text-start text-2xl">ทำให้อ๊ะอาย คว้าทุกโอกาสที่เข้ามาในชีวิต ทั้งเล่นละคร, ภาพยนตร์, ละครเวที รวมไปถึงการพากย์เสียงต่าง ๆ ตั้งแต่นั้นมา</p>
                     </div>
 
                     <div className="mt-5 md:mt-10 lg:mt-0 xl:mt-5">
