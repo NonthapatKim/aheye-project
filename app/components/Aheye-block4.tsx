@@ -31,7 +31,7 @@ function AheyeB4() {
 
     return (
         <>
-            <div className={`${glorifyReg.className} mt-20 md:mt-20 lg:mt-40 xl:mt-20 mb-14 md:mb-5 lg:mb-5 xl:mb-14 text-center`}>
+            <div className={`${glorifyReg.className} mt-20 md:mt-20 lg:mt-20 xl:mt-20 mb-14 md:mb-5 lg:mb-5 xl:mb-14 text-center`}>
                 <p className="text-4xl leading-normal">
                     Lookin’ Lookin’ Lookin’ Lookin’ Look<br/>
                 </p>
