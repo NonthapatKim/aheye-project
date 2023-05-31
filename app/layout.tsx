@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  metadataBase: new URL('https://aheye-korranid.vercel.app/'),
+  metadataBase: new URL('https://aheye-korranid.vercel.app'),
   icons: {
     icon: './assets/images/icon.png',
   },
