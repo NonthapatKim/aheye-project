@@ -1,5 +1,5 @@
 import './globals.css'
-import CoverWeb from "./assets/images/cover-web.png"
+import CoverWeb from "./assets/images/cover-web-og.jpg"
 
 export const metadata = {
   metadataBase: new URL('https://aheye-korranid.vercel.app/'),
