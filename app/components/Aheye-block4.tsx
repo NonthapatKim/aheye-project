@@ -36,7 +36,7 @@ function AheyeB4() {
                     Lookin’ Lookin’ Lookin’ Lookin’ Look<br/>
                 </p>
                 <motion.p 
-                    className="text-5xl md:text-6xl lg:text-6xl xl:text-6xl leading-normal text-[#d25380]"
+                    className="text-4xl md:text-6xl lg:text-6xl xl:text-6xl leading-normal text-[#d25380]"
                     ref={ref}
                     variants={boxVariant}
                     initial="hidden"

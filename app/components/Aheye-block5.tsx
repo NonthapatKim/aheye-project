@@ -62,7 +62,7 @@ function AheyeB5() {
                     </div>
 
                     <div>
-                        <p className="mt-4 md:mt-14 lg:mt-32 xl:mt-14 text-5xl md:text-4xl lg:text-5xl xl:text-5xl text-center md:text-center lg:text-center xl:text-center italic leading-normal md:leading-normal lg:leading-[1.5] xl:leading-normal text-color1">"เป้าหมายตอนนี้คือทำ 4EVE ให้ดีที่สุดค่ะ"</p>
+                        <p className="mt-4 md:mt-14 lg:mt-32 xl:mt-14 text-3xl md:text-4xl lg:text-5xl xl:text-5xl text-center md:text-center lg:text-center xl:text-center italic leading-normal md:leading-normal lg:leading-[1.5] xl:leading-normal text-color1">"เป้าหมายตอนนี้คือทำ 4EVE ให้ดีที่สุดค่ะ"</p>
                     </div>
                 </div>
             </div>
