@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Aheye Birthday Project
+
+This project was born out of my own opinion. but did not dare to do it until finally developing this project After the semester break at the university.
+
+โปรเจคนี้เกิดจากความเอาแต่คิดไม่กล้าลงมือทำ จนในที่สุดก็ลงมือทำหลังจากปิดเทอมของมหาวิทยาลัยแล้ว
+
+
+![image description](https://aheye-korranid.vercel.app/img/cover-web.png)
+
 
 ## Getting Started
 
