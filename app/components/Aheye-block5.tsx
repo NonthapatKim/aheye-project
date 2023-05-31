@@ -61,13 +61,13 @@ function AheyeB5() {
                         <p className="mt-4 text-2xl md:text-lg lg:text-2xl ml:text-2xl text-center md:text-start lg:text-start xl:text-start">อ๊ะอายได้ทุ่มเทกับรายการนี้เป็นอย่างมาก ถึงแม้ว่าเรื่องเต้น จะเป็นจุดด้อยของอ๊ะอายก็ตาม ตลอดการแข่งขันอ๊ะอายก็ได้แสดงความพยายามของตัวเองออกมาอยู่เรื่อย ๆ จนทะลุไปถึงรอบ Final Debut ซึ่งเป็นรอบสุดท้ายของการแข่งขันได้ ในรอบนี้เองทำให้อ๊ะอาย ได้รับการคัดเลือกจากรุ่นพี่ให้เป็นหนึ่งในสมาชิกของวง <b>4EVE</b> เกิร์ลกรุ๊ปหน้าใหม่ของเมืองไทยในขณะนั้น อีกทั้งยังเป็นน้องเล็กของวง 4EVE เช่นเดียวกัน และถือว่านี่เป็นจุดเปลี่ยนสำคัญของอ๊ะอายไปเลยก็ว่าได้</p>
                     </div>
 
-                    <div>
-                        <p className="mt-4 md:mt-14 lg:mt-32 xl:mt-14 text-2xl md:text-4xl lg:text-5xl xl:text-5xl text-center md:text-center lg:text-center xl:text-center italic leading-normal md:leading-normal lg:leading-[1.5] xl:leading-normal text-color1">"เป้าหมายตอนนี้คือทำ 4EVE ให้ดีที่สุดค่ะ"</p>
+                    <div className="p-4 md:p-0 lg:p-4 xl:p-0">
+                        <p className="mt-4 md:mt-14 lg:mt-32 xl:mt-14 text-3xl md:text-4xl lg:text-5xl xl:text-5xl text-center md:text-center lg:text-center xl:text-center italic leading-normal md:leading-normal lg:leading-[1.5] xl:leading-normal text-color1">"เป้าหมายตอนนี้คือทำ 4EVE ให้ดีที่สุดค่ะ"</p>
                     </div>
                 </div>
             </div>
 
-            <div className={`${noto_S_TH.className} container-fluid mx-auto mt-20 md:mt-20 lg:mt-0 xl:mt-20`}>
+            <div className={`${noto_S_TH.className} container-fluid mx-auto mt-20 md:mt-20 lg:mt-20 xl:mt-20`}>
                 <Image src={ribbon} className="w-full" alt="..." />
                 <Image src={fEVE} className="w-[40rem] mt-4 mx-auto" alt="4EVE" />
 

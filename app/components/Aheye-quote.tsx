@@ -47,7 +47,7 @@ function AheyeQ() {
 
             <div className="absolute mt-10 md:mt-20 lg:mt-40 xl:mt-32 ms-0 md:ms-0 lg:ms-[30rem] xl:ms-[32rem] ps-8 md:ps-44 lg:ps-0 xl:ps-0 pe-8 md:pe-44 lg:pe-0 xl:pe-0">
                 <motion.h2 
-                  className="italic text-white text-center text-2xl md:text-3xl lg:text-4xl xl:text-5xl mb-5 md:mb-5 lg:mb-5 xl:mb-10 leading-normal md:leading-normal lg:leading-normal xl:leading-[1.5]"
+                  className="italic md:italic lg:not-italic xl:italic text-white text-center text-2xl md:text-3xl lg:text-4xl xl:text-5xl mb-5 md:mb-5 lg:mb-5 xl:mb-10 leading-normal md:leading-normal lg:leading-normal xl:leading-[1.5]"
                   ref={ref}
                   variants={boxVariant}
                   initial="hidden"
