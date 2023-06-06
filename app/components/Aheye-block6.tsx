@@ -46,7 +46,7 @@ function AheyeB6() {
             <div className={`${noto_S_TH.className} container mx-auto mt-0 md:mt-0 lg:mt-0 xl:mt-0`}>
                 <div className="grid grid-cols-0 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
                     <div className="p-4 md:p-4 lg:p-4 xl:p-0">
-                        <p className="mt-4 text-2xl md:text-lg lg:text-2xl ml:text-2xl text-center md:text-start lg:text-start xl:text-start">เชื่อได้เลยว่า หลาย ๆ คนที่กำลังอ่านเรื่องราวของอ๊ะอายในส่วนนี้ มีส่วนหนึ่งที่รู้จักอ๊ะอายผ่านเพลง <b>"วัดปะหล่ะ?"</b> ซึ่งเป็นเพลงที่ผู้เล่นอันทรงเกียรติหรือ MVP ทั้ง 3 คน ประกอบไปด้วย อ๊ะอาย, โจริญ และแฮนน่า ที่ได้ถูกรุ่นพี่คัดเลือกให้เป็นหนึ่งในสมาชิกของ 4EVE ในการแข่งขันรอบสุดท้ายของรายการ 4EVE Girl group all star เป็นคนร้องเพลงนี้</p>
+                        <p className="mt-4 text-2xl md:text-lg lg:text-2xl ml:text-2xl text-center md:text-start lg:text-start xl:text-start">เชื่อได้เลยว่า หลาย ๆ คนที่กำลังอ่านเรื่องราวของอ๊ะอายในส่วนนี้ มีส่วนหนึ่งที่รู้จักอ๊ะอายครั้งแรกผ่านเพลง <b>"วัดปะหล่ะ?"</b> ซึ่งเป็นเพลงที่ผู้เล่นอันทรงเกียรติหรือ MVP ทั้ง 3 คน ประกอบไปด้วย อ๊ะอาย, โจริญ และแฮนน่า ที่ได้ถูกรุ่นพี่คัดเลือกให้เป็นหนึ่งในสมาชิกของ 4EVE ในการแข่งขันรอบสุดท้ายของรายการ 4EVE Girl group all star เป็นคนร้องเพลงนี้</p>
 
                         <p className="mt-4 text-2xl md:text-lg lg:text-2xl ml:text-2xl text-center md:text-start lg:text-start xl:text-start">หลังจากปล่อยเพลงนี้ออกไปได้ไม่นานนัก ก็ทำให้เพลงนี้เป็นกระแสอันโด่งดังในชั่วข้ามคืน ทั้งตัวของอ๊ะอายเองและสมาชิกในวง ที่เรียกได้เลยว่า ถ้าถามใคร ๆ ว่า <b className="italic">รู้จัก 4EVE ได้อย่างไร</b> คำตอบนี้ เป็นคำตอบที่ตอบกันเป็นอย่างมากแน่นอน</p>
                     </div>

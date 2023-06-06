@@ -32,7 +32,7 @@ function AheyeB3() {
 
     return (
         <>
-            <div className={`${noto_S_TH.className} mt-20 md:mt-20 lg:mt-40 xl:mt-32 mb-5 md:mb-5 lg:mb-5 xl:mb-0 text-center`}>
+            <div className={`${noto_S_TH.className} mt-20 md:mt-20 lg:mt-20 xl:mt-20 mb-5 md:mb-5 lg:mb-5 xl:mb-0 text-center`}>
                 <motion.p 
                     className="text-5xl xl:text-6xl leading-normal text-[#3F72AF] italic"
                     ref={ref}
@@ -55,7 +55,7 @@ function AheyeB3() {
                 </div>
             </div>
 
-            <div className={`${noto_S_TH.className} container ps-4 md:ps-10 lg:ps-14 xl:ps-32 pe-4 md:pe-0 lg:pe-0 xl:pe-0 mt-10 md:mt-10 lg:mt-0 xl:mt-5 mb-20`}>
+            <div className={`${noto_S_TH.className} container ps-4 md:ps-10 lg:ps-28 xl:ps-32 pe-4 md:pe-0 lg:pe-0 xl:pe-0 mt-10 md:mt-10 lg:mt-0 xl:mt-5 mb-20`}>
                 <div className="grid grid-cols-0 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
                     <div>
                         <p className="text-center md:text-start lg:text-start xl:text-start text-2xl leading-normal"><i>กาลครั้งหนึ่ง</i> <span className="text-color1">อ๊ะอาย</span> เคยพลาดการแคสโฆษณา เพราะไม่กล้าเล่น ทำให้อ๊ะอายเสียดายโอกาสในครั้งนั้น จนกลับมาฮึดสู้ เริ่มต้นใหม่อีกครั้ง และได้เรียนรู้ว่า <br/></p>

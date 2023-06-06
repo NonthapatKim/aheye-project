@@ -19,7 +19,7 @@ function Footer() {
             เว็บไซต์นี้เป็นส่วนหนึ่งของโปรเจควันเกิดของ <br/> อ๊ะอาย กรณิศ เล้าสุบินประเสริฐ <br/> ศิลปินวง 4EVE, นักร้อง, นักแสดง และนักพากย์ <br/> 9 มิถุนายน 2566
         </div>
         <div className={`${noto_S_TH.className} text-center`}>
-            This website is a part of <br/> Aheye | Korranid Laosubinprasoet's Brithday Project <br/> Artist of 4EVE, Singer, Artist and Voice actor <br/> June 9, 2023
+            This website is a part of <br/> Aheye | Korranid Laosubinprasoet's Brithday Project <br/> Artist of 4EVE, Singer, Actor and Voice actor <br/> June 9, 2023
         </div>
       </div>
     </footer>
